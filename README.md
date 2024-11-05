@@ -13,13 +13,14 @@ How to Play
 - Winning: The game ends when you have 4 bulls (all digits/letters are correct and in the right positions).
 
 Game Modes
-- Basic Mode (4-digit Number):
-1.The default mode of the game where the player guesses a 4-digit number with unique digits.
+1.Basic Mode (4-digit Number):
+   > The default mode of the game where the player guesses a 4-digit number with unique digits.
    > Feedback is given in terms of cows and bulls.
 
 2.Extended Mode - Numbers with Duplicate Digits:
    > Allows the computer to generate a 4-digit number with duplicate digits (e.g., 1123).
    > Feedback and gameplay remain the same.
+
 3.Extended Mode - 4-Letter Words:
    > Instead of numbers, the computer chooses a 4-letter word from a predefined list.
    > Feedback uses the same cows and bulls concept, but with letters instead of digits.
