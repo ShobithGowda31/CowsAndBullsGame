@@ -29,23 +29,33 @@ Welcome to Cows and Bulls Game!
 Guess the 4-digit number with unique digits.
 Enter your guess: 5698
 Cows: 3, Bulls: 0
+
 Enter your guess: 5687
 Cows: 1, Bulls: 2
+
 Enter your guess: 4689
 Cows: 2, Bulls: 1
+
 Enter your guess: 4687
 Cows: 1, Bulls: 2
+
 Enter your guess: 6087
 Cows: 0, Bulls: 3
+
 Enter your guess: 6187
 Cows: 0, Bulls: 3
+
 Enter your guess: 6287
 Cows: 0, Bulls: 3
+
 Enter your guess: 6387
 Cows: 0, Bulls: 3
+
 Enter your guess: 6487
 Cows: 0, Bulls: 3
+
 Enter your guess: 6587
 Cows: 0, Bulls: 3
+
 Enter your guess: 6987
 Congratulations! You've guessed the number 6987 in 11 attempts.
