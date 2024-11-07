@@ -25,6 +25,10 @@ Game Modes
    > Instead of numbers, the computer chooses a 4-letter word from a predefined list.
    > Feedback uses the same cows and bulls concept, but with letters instead of digits.
 
+Testing
+   > Unit Tests: Several unit tests have been included to validate core functionalities.
+   > Run Tests: To run tests, use a Java IDE like Eclipse with JUnit support.
+
 Example : Output
 Welcome to Cows and Bulls Game!
 Guess the 4-digit number with unique digits.
