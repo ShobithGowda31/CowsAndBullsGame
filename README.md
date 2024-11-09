@@ -1,4 +1,4 @@
-              🐮 Cows and Bulls Game
+         🐮 Cows and Bulls Game
 Overview
 > Cows and Bulls is a fun and challenging game of logic and deduction.
 > In this game, the player must guess a randomly generated 4-digit number (or 4-letter word) chosen by the computer.
